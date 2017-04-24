@@ -1,5 +1,5 @@
 #pragma once
-namespace 
-{
-   //test1
+namespace {
+   // test1
+   // test2
 }
